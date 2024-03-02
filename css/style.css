@@ -1,0 +1,124 @@
+    .logo{
+background: url(<peth-to-image), colgroup 50% / cover no-repeat;
+    }
+.header{ 
+ background: #C9AC82;
+ width: 1512px;
+ padding: 36px 201px;
+ justify-self: center;
+}
+.nav_list{
+display: flex;
+margin-right: 10px;
+}
+.nav_item{
+    color: #000;
+    font-family: Nico Moji;
+    font-size: 25px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.hero-block__title {
+    color: #C9AC82;
+    font-family: Nico Moji;
+    font-size: 72px;
+    font-style: normal;
+    font-weight: 400;
+    line-height: normal;
+}
+.container__hero-block {
+    display: flex;
+    justify-content: space-between;
+align-items: center;
+padding: 90px 0 90px;
+}
+.container{
+    max-width: 1512px;
+    margin: 0 auto;
+}
+.hero-block__link{
+    color: #000;
+font-family: Nico Moji;
+font-size: 18px;
+font-style: normal;
+font-weight: 400;
+line-height: normal;
+border-radius: 6px;
+background: #26A7FF;
+padding: 5px;
+}
+.hero-block{
+    display: flex;
+height: 707px;
+padding: 90px 215px 91px 162px;
+align-items: center;
+gap: 176.159px;
+flex-shrink: 0;
+background: #2C2C2C;
+}
+.hero-block__img{
+    margin-right: 200px ;
+}
+.baceraounde__color{
+    width: 1512px;
+height: 831px;
+flex-shrink: 0;
+background: linear-gradient(0deg, #0090FF 0%, rgba(21, 156, 255, 0.07) 99.99%, #000 100%);
+}
+.video{
+    background-color: #C9AC82;
+}
+.container__video{
+    padding: 70px 0px 90px;
+}
+.video__title{
+    color: white;
+    text-align: center;
+    margin-bottom: 40px;
+}
+.video__video{
+    width: 100%;
+    height: 568px;
+    border: 50px solid 005898
+}
+.video{
+    background-color: #0090FF;
+}
+.video__content{
+    align-items: center;
+    display: flex;
+    padding: 50px;
+}
+.gallery__item{
+    width: 50%;
+    height: 390px;
+}
+.gallery__img{
+    width: 100%;
+    height: 100%;
+}
+.gallery__list{
+    display: flex;
+    flex-wrap: wrap;
+justify-content: center;
+background-color: rgb(22, 159, 255);
+}
+.gallery__title{
+    text-align: center;
+    background-color: rgb(22, 159, 255);
+}
+.container__footer{
+    display: flex;
+    justify-content: space-around;
+}
+.footer__list{
+    display:flex;
+    list-style: none
+}
+.footer__item{
+margin-right: 20px;
+}
+.footer{
+    background-color: #2C2C2C;
+}
